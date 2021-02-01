@@ -304,6 +304,10 @@ input {
     left: -3px;
 }
 
+.highlight {
+    background-color: #8F9494;
+  }
+
 @keyframes rotate {
     from {
         transform: rotate(0deg);
